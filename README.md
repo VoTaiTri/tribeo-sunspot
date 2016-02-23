@@ -1,0 +1,3 @@
+# Sunspot - Solr
+
+### Fulltext Search
